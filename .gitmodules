@@ -1,3 +1,6 @@
 [submodule "PCB/third_party/KiCad-RP-Pico"]
 	path = PCB/third_party/KiCad-RP-Pico
 	url = https://github.com/ncarandini/KiCad-RP-Pico
+[submodule "PCB/third_party/CherryMX"]
+	path = PCB/third_party/CherryMX
+	url = https://github.com/hineybush/CherryMX
