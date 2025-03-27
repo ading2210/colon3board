@@ -16618,7 +16618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library_Edited:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "Library_Edited:SW_Cherry_MX_2.00u_PCB_r1"
 			(at 563.88 88.9 0)
 			(effects
 				(font
@@ -21040,7 +21040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library_Edited:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "Library_Edited:SW_Cherry_MX_2.00u_PCB_r1"
 			(at 563.88 139.7 0)
 			(effects
 				(font

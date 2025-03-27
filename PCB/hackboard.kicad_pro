@@ -3126,7 +3126,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "hackboard.dsn",
-      "step": "",
+      "step": "hackboard.step",
       "svg": "",
       "vrml": ""
     },
