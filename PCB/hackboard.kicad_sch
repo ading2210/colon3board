@@ -8828,26 +8828,6 @@
 	)
 	(global_label "row5"
 		(shape input)
-		(at 22.86 316.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f97a4d82-a72e-4d54-8895-3c0e51d9cc3b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.86 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row5"
-		(shape input)
 		(at 26.67 229.87 180)
 		(effects
 			(font

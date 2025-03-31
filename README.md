@@ -1,6 +1,17 @@
 # colon3board
 
-This is a custom designed mechanical keyboard, created for the the Hackpad event. It is a full sized 104 key layout, and a built in OLED display.
+This is a custom designed mechanical keyboard, created for the the [Hackpad](https://hackpad.hackclub.com/) event. It has a full sized 104 key layout, and a built in OLED display.
+
+![image](/images/pcb_front.png)
+
+![image](/images/pcb_back.png)
+
+![image](/images/pcb_design.png)
+
+![image](/images/pcb_schematic.png)
+
+![image](/images/case.png)
+
 
 ## BOM
 
