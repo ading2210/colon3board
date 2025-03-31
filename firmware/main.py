@@ -12,7 +12,7 @@ from adafruit_mcp230xx.mcp23008 import MCP23008
 #set up io expander
 i2c = busio.I2C(board.SCL1, board.SDA1)
 mcp = MCP23008(i2c)
-mcp_pins = [mcp.get_pin(i) for i in range(5)]
+mcp_pins = [mcp.get_pin(i) for i in range(6)]
 
 #set up keyboard
 keyboard = KMKKeyboard()
