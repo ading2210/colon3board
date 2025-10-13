@@ -12,16 +12,22 @@ This is a custom designed mechanical keyboard, created for the the [Hackpad](htt
 
 ![image](/images/case.png)
 
+I designed this so I could get more practice with designing PCBs in KiCad and with modeling larger parts in Fusion 360. Also, I get to have a free keyboard in the end thanks to the grant from Hack Club. 
 
 ## BOM
 
 ### For PCB:
-- 1x Raspberry Pi Pico
-- 1x SSD1306 128x32 OLED
-- 1x 1x4 2.54mm vertical pin socket
-- 1x MCP23008 IO expander
-- 104x Cherry MX key switches
-- 104x 1N4148 diodes
+| Part                                  | Count (needed) | Count (purchased) | Price  | Link                                                                                          |
+|---------------------------------------|----------------|-------------------|--------|-----------------------------------------------------------------------------------------------|
+| Raspberry Pi Pico                     | 1              | 1                 | $7.48  | https://www.amazon.com/Raspberry-RP2040-microcontroller-Dual-core-Processor-1pc/dp/B0BK9CTMSV |
+| SSD1306 128x32 OLED                   | 1              | 2                 | $6.99  | https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V               |
+| Cherry MX key switches                | 104            | 108               | $32.99 | https://www.amazon.com/Zjmehty-Switches-Mechanical-Pre-Lubed-Pin-Enhanced/dp/B0CF8DWDGF       |
+| PBT Keycaps                           | 104            | 139               | $13.99 | https://www.amazon.com/Doubleshot-Mechanical-Keyboard-Compatiability-Keyboads/dp/B0F7H32LKC   |
+| PCB Mount Stabilizers Kit             | 1              | 1                 | $9.99  | https://www.amazon.com/GLORIOUS-Stabilizer-Mechanical-Keyboards-Compatible/dp/B09MZKFLXP      |
+| 1x4 2.54mm vertical female pin header | 1              | 1                 | $0.25  | https://www.digikey.com/en/products/detail/adam-tech/RS1-04-G/9829303                         |
+| 1x4 2.54mm vertical male pin header   | 1              | 1                 | $0.20  | https://www.digikey.com/en/products/detail/metz-connect-usa-inc/PR20204VBNN/12342903          |
+| MCP23008 IO expander                  | 1              | 1                 | $1.54  | https://www.digikey.com/en/products/detail/microchip-technology/MCP23008-E-P/735951           |
+| 1N4148 diodes                         | 104            | 110               | $3.72  | https://www.digikey.com/en/products/detail/onsemi/1N4148-T50A/978509                          |
 
 ### For Case:
 - Case is 3d printed in PLA
